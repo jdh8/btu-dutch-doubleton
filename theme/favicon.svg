@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="100"
-   height="100"
-   fill="#0E518D"
-   stroke="#FFF"
+   width="160"
+   height="160"
+   fill="#0e518d"
+   stroke="#ffffff"
    version="1.1"
    id="svg2"
    sodipodi:docname="favicon.svg"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.02"
-     inkscape:cx="50"
-     inkscape:cy="50"
+     inkscape:zoom="4.01"
+     inkscape:cx="59.600997"
+     inkscape:cy="93.516209"
      inkscape:window-width="1920"
      inkscape:window-height="1014"
      inkscape:window-x="0"
@@ -35,8 +35,8 @@
   <rect
      style="fill:#009900;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
      id="rect2"
-     width="100"
-     height="100"
+     width="160"
+     height="160"
      x="0"
      y="0" />
   <path
@@ -44,7 +44,7 @@
      stroke-width="4.15216"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="M 67.097121,26.131395 52.442446,57.88319 31.681656,34.679955 32.902879,32.237509 H 65.875898 L 78.088127,57.88319 H 52.442446 m -29.30935,1.221223 13.433452,-37.85791 h 7.327337 M 58.54856,24.910172 H 70.760789 M 21.911873,42.007293 a 15.875898,15.875898 0 1 0 1.221223,0 m 53.733808,0 a 15.875898,15.875898 0 1 0 1.221223,0"
+     d="M 106.8351,42.460118 83.833587,92.296747 51.248098,55.877673 53.164891,52.044084 h 51.753429 l 19.16793,40.252663 H 83.833587 M 37.830545,94.213541 58.915273,34.792945 h 11.500759 m 23.00152,5.750379 h 19.167938 m -76.671739,26.83511 a 24.918315,24.918315 0 1 0 1.916794,0 m 84.338925,0 a 24.918315,24.918315 0 1 0 1.91678,0"
      id="path2"
-     style="stroke-width:4.5;stroke-dasharray:none" />
+     style="stroke-width:7.84784;stroke-dasharray:none" />
 </svg>

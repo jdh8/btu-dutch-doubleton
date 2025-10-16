@@ -1,5 +1,7 @@
 # BTU Dutch Doubleton
 
+![圖示：腳踏車，荷蘭與台大的共通點](theme/favicon.svg)
+
 作者自從讀了 Jan Eric Larsson 的 *Good, Better, Best* 之後，開始認真研究橋牌叫牌制度。為了推廣橋牌運動，以及方便台大橋藝社乃至台灣的橋牌愛好者參與各級賽事，我特地設計 BTU Dutch Doubleton。本叫牌制度有以下特點：
 
 1. 自然制，符合 [WBF Systems Policy](https://www.worldbridge.org/systems/) 當中的綠色分類。
