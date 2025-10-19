@@ -1,6 +1,6 @@
 # BTU Dutch Doubleton
 
-![圖示：腳踏車，荷蘭與台大的共通點](favicon.svg)
+![圖示：腳踏車，荷蘭與台大的共通點](theme/favicon.svg)
 
 作者自從讀了 Jan Eric Larsson 的 *Good, Better, Best*
 之後，開始認真研究橋牌叫牌制度。為了推廣橋牌運動，以及方便台大橋藝社乃至台灣的橋牌愛好者參與各級賽事，我特地設計
