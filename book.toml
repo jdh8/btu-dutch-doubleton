@@ -1,7 +1,6 @@
 [book]
 authors = ["Chen-Pang He"]
 language = "zh-TW"
-multilingual = false
 src = "src"
 title = "BTU Dutch Doubleton"
 
