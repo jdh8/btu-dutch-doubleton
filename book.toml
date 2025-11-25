@@ -10,4 +10,11 @@ git-repository-url = "https://github.com/jdh8/btu-dutch-doubleton"
 site-url = "https://jdh8.github.io/btu-dutch-doubleton/"
 smart-punctuation = true
 
-[preprocessor.yapp]
+[preprocessor.replace]
+
+[preprocessor.replace.list]
+"♠" = "<span class='♠'>♠</span>"
+"♥" = "<span class='♥'>♥</span>"
+"♦" = "<span class='♦'>♦</span>"
+"♣" = "<span class='♣'>♣</span>"
+"(R)" = "<abbr title='relay'>(R)</abbr>"
