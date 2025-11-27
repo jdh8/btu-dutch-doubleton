@@ -5,6 +5,7 @@ src = "src"
 title = "BTU Dutch Doubleton"
 
 [output.html]
+default-theme = "rust"
 additional-css = ["style.css"]
 git-repository-url = "https://github.com/jdh8/btu-dutch-doubleton"
 site-url = "https://jdh8.github.io/btu-dutch-doubleton/"
