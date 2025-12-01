@@ -7,8 +7,9 @@ title = "BTU Dutch Doubleton"
 [output.html]
 default-theme = "rust"
 additional-css = ["style.css"]
-git-repository-url = "https://github.com/jdh8/btu-dutch-doubleton"
 site-url = "https://jdh8.github.io/btu-dutch-doubleton/"
+git-repository-url = "https://github.com/jdh8/btu-dutch-doubleton"
+edit-url-template = "https://github.com/jdh8/btu-dutch-doubleton/edit/main/{path}"
 smart-punctuation = true
 
 [preprocessor.replace]
