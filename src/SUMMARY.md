@@ -11,4 +11,6 @@
 - [自然 1♥](1H.md)
 - [自然 1♠](1S.md)
 - [BTU 1NT](1NT.md)
+  - [Stayman 2♣](1NT/2C.md)
+  - [高花轉換](1NT/2R.md)
 - [強 2♣](2C.md)
