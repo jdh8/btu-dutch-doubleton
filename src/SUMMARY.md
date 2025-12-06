@@ -9,6 +9,7 @@
     - [波蘭 2♦](1C/1M/2D.md)
 - [自然 1♦](1D.md)
 - [自然 1♥](1H.md)
+  - [Jacoby&ndash;Stenberg 2NT](1H/2NT.md)
 - [自然 1♠](1S.md)
   - [Jacoby&ndash;Stenberg 2NT](1S/2NT.md)
 - [BTU 強無王](1NT.md)
