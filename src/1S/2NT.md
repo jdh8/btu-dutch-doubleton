@@ -1,6 +1,4 @@
-# Jacoby/Stenberg 2NT
-
-> Jacoby 2NT 是神級特約，但是原版後續不是。
+# Jacoby--Stenberg 2NT
 
 速達原理不應該套用在無上限的 Jacoby 2NT 上。開叫人越弱，答叫人有越高的機率拿到強牌。因此，我引進
 Stenberg 也就是瑞典式 Jacoby 2NT 的後續，但保留 Jacoby 的 5-5 長門。

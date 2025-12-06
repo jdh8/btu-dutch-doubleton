@@ -10,7 +10,7 @@
 - [自然 1♦](1D.md)
 - [自然 1♥](1H.md)
 - [自然 1♠](1S.md)
-  - [Jacoby/Stenberg 2NT](1S/2NT.md)
+  - [Jacoby&ndash;Stenberg 2NT](1S/2NT.md)
 - [BTU 強無王](1NT.md)
   - [Stayman 2♣](1NT/2C.md)
   - [高花轉換](1NT/2R.md)
