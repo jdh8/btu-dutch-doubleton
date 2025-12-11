@@ -18,7 +18,7 @@ BTU Dutch Doubleton。本叫牌制度有以下特點：
 ## 牌值
 
 - **HCP**: Milton Work 眾所皆知的 4321 點力
-- **總牌值**: HCP + 牌形點（缺門 3 點、單張 2 點、雙張 1 點、短門扣 1 點）
+- **總牌值**: HCP + 牌形點（缺門 3 點、單張 2 點、雙張 1 點、短門有大牌折 1 點）
 - **Zar**: 6-4-2-1 + Zar 式牌形點（a + b + a &minus; d，字母代表每門由長到短的張數）
 - [**Fifths**](https://bridge.thomasoandrews.com/valuations/cardvaluesfor3nt.html):
   4.0--2.8--1.8--1.0--0.4，為了無王合約尤其是 3NT 所調整的 HCP
@@ -49,7 +49,7 @@ NLTC 評估一手牌還不錯，但是可加性有疑慮。比較適合開叫、
 [abbr]: http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 - **逗號 (,)** 作為**且**。
-- **句號 (.)** 作為**或**。
+- **分號 (;)** 作為**或**。
 - **冒號 (:)** 緊接叫品的大致描述。
 
 範例：本制度的[開叫](Opening.md) 1♣ 及 2♣。
