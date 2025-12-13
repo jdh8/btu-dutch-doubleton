@@ -14,6 +14,7 @@
   - [Jacoby&ndash;Stenberg 2NT](1H/2NT.md)
 - [自然 1♠](1S.md)
   - [迫叫 1NT](1S/1NT.md)
+  - [二蓋一迫叫成局](1S/2X.md)
   - [Jacoby&ndash;Stenberg 2NT](1S/2NT.md)
 - [BTU 強無王](1NT.md)
   - [Stayman 2♣](1NT/2C.md)
