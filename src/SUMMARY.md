@@ -11,6 +11,7 @@
 - [自然 1♥](1H.md)
   - [自然 1♥-1♠](1H/1S.md)
   - [自然 1NT](1H/1NT.md)
+  - [二蓋一迫叫成局](1H/2CD.md)
   - [Jacoby&ndash;Stenberg 2NT](1H/2NT.md)
 - [自然 1♠](1S.md)
   - [迫叫 1NT](1S/1NT.md)
