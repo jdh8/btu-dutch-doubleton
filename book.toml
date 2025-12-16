@@ -7,9 +7,9 @@ title = "西瓜荷蘭梅花"
 [output.html]
 default-theme = "rust"
 additional-css = ["style.css"]
-site-url = "https://jdh8.github.io/btu-dutch-doubleton/"
-git-repository-url = "https://github.com/jdh8/btu-dutch-doubleton"
-edit-url-template = "https://github.com/jdh8/btu-dutch-doubleton/edit/main/{path}"
+site-url = "https://jdh8.github.io/watermelon-dutch-doubleton/"
+git-repository-url = "https://github.com/jdh8/watermelon-dutch-doubleton"
+edit-url-template = "https://github.com/jdh8/watermelon-dutch-doubleton/edit/main/{path}"
 smart-punctuation = true
 
 [preprocessor.replace]
