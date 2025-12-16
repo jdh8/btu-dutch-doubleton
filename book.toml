@@ -2,7 +2,7 @@
 authors = ["Chen-Pang He"]
 language = "zh-TW"
 src = "src"
-title = "BTU Dutch Doubleton"
+title = "西瓜荷蘭梅花"
 
 [output.html]
 default-theme = "rust"
