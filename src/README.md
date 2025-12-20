@@ -60,7 +60,7 @@ NLTC 評估一手牌還不錯，但是可加性有疑慮。比較適合開叫、
 - Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/valuations/)
 - Bridge Base.  [GIB Bid Descriptions][GIB]
 
-### 荷蘭制
+### 荷蘭梅花
 
 - Dan Neil.  [Professional Dutch Doubleton Bidding System](https://bridgewithdan.com/product/professional-dutch-doubleton-bidding-system/)
 - [Sjoert Brink & Bas Drijver](https://www.bridge.nl/wp-content/uploads/2023/01/Lb1_Brink-Drijver.pdf).
