@@ -5,7 +5,7 @@ src = "src"
 title = "西瓜荷蘭梅花"
 
 [output.html]
-default-theme = "rust"
+default-theme = "light"
 additional-css = ["style.css"]
 site-url = "https://jdh8.github.io/watermelon-dutch-doubleton/"
 git-repository-url = "https://github.com/jdh8/watermelon-dutch-doubleton"
